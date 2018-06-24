@@ -7,6 +7,13 @@ Vous trouverez ici des ressources diverses et variées sur des projets que nous 
 
 # Nos projets
 
+
+## Jeton de charriot "Agora"
+
+Lors du forum des associations nous avons distribué des jetons de charriot à l'effigie de l'Agora (le centre socioculturel qui nous héberge). Découvrez ici les différentes étapes de la réalisation et les outils utilisés. 
+
+[Fiche projet - Jeton Agora](p_jeton.html)
+
 ## Capteur de température connecté
 
 Une petite description. Lien vers la page.
